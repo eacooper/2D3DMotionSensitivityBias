@@ -1,3 +1,8 @@
+Sensitivity and Bias in the Discrimination of 2D and 3D Motion Direction.
+E.A. Cooper, M. van Ginkel, and B. Rokers
+Journal of Vision, 16(10):5, 2016
+http://jov.arvojournals.org/article.aspx?articleid=2543587
+
 Each mat file contains a data matrix for one of the experimental conditions. Each row is a single trial, columns are as follows:
 
 (1) condition number (1 = near, 2 = mid, 3 = far, 4 = monocular)
